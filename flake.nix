@@ -18,8 +18,7 @@
         inherit pkgs;
         modules = [
           ./home.nix
-          ./programs/git.nix
-          ./programs/zsh.nix
+          ./programs/default.nix
         ];
       };
     };
