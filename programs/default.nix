@@ -3,5 +3,6 @@
     ./git.nix
     ./zsh.nix
     ./nixvim.nix
+    ./kitty.nix
   ];
 }

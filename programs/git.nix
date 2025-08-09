@@ -23,7 +23,7 @@
       extraConfig = {
         init.defaultBranch = "main";
         url."git@github.com:".insteadOf = "https://github.com/";
-        core.editor = "vim";
+        core.editor = "nvim";
       };
     };
 
